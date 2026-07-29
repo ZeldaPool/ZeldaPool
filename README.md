@@ -12,7 +12,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ranasmit.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ranasmit.com)
+<a href="https://ranasmit.com"><img src="https://img.shields.io/badge/Portfolio-ranasmit.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=24" height="42" alt="portfolio" /></a>
+
+<br/><br/>
+
 [![Forge](https://img.shields.io/badge/Forge-forge.smitlabs.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://forge.smitlabs.com)
 [![Westminster Search](https://img.shields.io/badge/Westminster_Search-search.wcmo.edu-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://search.wcmo.edu)
 
@@ -20,9 +23,9 @@
 
 ---
 
-### 🚀 A few things I've built
+### 🚀 A few things I've built (and presented)
 
-**🔍 Westminster Search** — a production RAG (Retrieval-Augmented Generation) search assistant for a college website. Crawls and indexes the site, retrieves with hybrid keyword + vector search (Reciprocal Rank Fusion over Postgres full-text + pgvector), then answers questions with an LLM — strictly scoped to the site's own content, with a query analytics + feedback loop to keep improving it.
+**🔍 RAG Search** — a production RAG (Retrieval-Augmented Generation) search assistant for a college website. Crawls and indexes the site, retrieves with hybrid keyword + vector search (Reciprocal Rank Fusion over Postgres full-text + pgvector), then answers questions with an LLM — strictly scoped to the site's own content, with a query analytics + feedback loop to keep improving it.
 `Node.js` `PostgreSQL + pgvector` `Docker`
 → **[search.wcmo.edu](https://search.wcmo.edu)**
 
@@ -33,14 +36,16 @@
 **🎴 Professor Cardie** — a Discord bot for Pokémon TCG Pocket traders: live trade matching, a web-based collection manager, and an automated card database sync, self-hosted end to end.
 `discord.js` `n8n` `Supabase`
 
-**📹 Video Streaming Platform** — a full-stack streaming app with Google OAuth and state management at scale.
-`React` `Redux` `Google OAuth`
-
 **🏦 Cheque Processing System** — a computer vision pipeline for automated cheque data extraction.
 `MATLAB` `Image Processing`
 
-**📊 Digital Ads Reporting & Automation** — automated pipelines turning raw ad platform data into recurring visual reports, replacing manual reporting work.
-`Python` `Data Visualization` `Automation`
+**🤖 AI Solutions** — practical AI integration across projects: RAG-powered search, AI-generated image alt text, and other LLM-backed features built into real, shipped tools rather than standalone demos.
+
+**🎤 Cascade CMS Conference 2026** — opening technical presentation, showcasing automation workflows and tooling built for higher-ed web operations.
+`Automation` `Public Speaking`
+
+**🎤 Web Accessibility Presentation** — a talk on practical web accessibility (WCAG/POUR framework), with a live AI-powered demo generating image alt text in real time.
+`Accessibility` `WCAG` `Live Demo`
 
 ---
 
@@ -48,17 +53,20 @@
 
 **Build**
 
-<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,python,astro,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,python,astro,html,css&theme=dark" /><br/>
+<sub>JavaScript · TypeScript · Next.js · React · Node.js · Express · Python · Astro · HTML · CSS</sub>
 
 **Data & Infra**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,postgres,mongodb,docker,git&theme=dark" /><br/>
+<sub>AWS · PostgreSQL · MongoDB · Docker · Git</sub>
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ai,ps,pr&theme=dark" /><br/>
+<sub>Figma · Illustrator · Photoshop · Premiere Pro</sub>
 
-<br/>
+**Automation, Cloud & Analytics**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
@@ -74,11 +82,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitrana/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitrana178@gmail.com)
+<a href="https://www.linkedin.com/in/smitrana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="linkedin" /></a>
+<a href="mailto:smitrana178@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="email" /></a>
 
 </div>
 
 <div align="center">
-<sub>Off-screen, I'm usually chasing rare diecast finds or theorycrafting Pokémon TCG Pocket trades.</sub>
+<sub>Off-screen, I'm usually chasing rare diecast finds, training to be a Pokémon master, or fine-tuning my playlist for maximum productivity.</sub>
 </div>
