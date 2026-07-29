@@ -75,7 +75,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 
-**Also in the toolkit:** Digital marketing & SEO strategy, paid ads (Meta/Google/LinkedIn), and UI/UX design — not every skill has a badge.
+**Also in the toolkit:** Digital marketing & SEO strategy, paid ads (Meta/Google/LinkedIn), and UI/UX design.
 
 ---
 
