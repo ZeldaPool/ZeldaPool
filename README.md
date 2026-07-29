@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 A few things I've built (and presented)
+### 🚀 Things I've built & talks I've given
 
 **🔍 RAG Search** — a production RAG (Retrieval-Augmented Generation) search assistant for a college website. Crawls and indexes the site, retrieves with hybrid keyword + vector search (Reciprocal Rank Fusion over Postgres full-text + pgvector), then answers questions with an LLM — strictly scoped to the site's own content, with a query analytics + feedback loop to keep improving it.
 `Node.js` `PostgreSQL + pgvector` `Docker`
@@ -39,13 +39,13 @@
 **🏦 Cheque Processing System** — a computer vision pipeline for automated cheque data extraction.
 `MATLAB` `Image Processing`
 
-**🤖 AI Solutions** — practical AI integration across projects: RAG-powered search, AI-generated image alt text, and other LLM-backed features built into real, shipped tools rather than standalone demos.
-
 **🎤 Cascade CMS Conference 2026** — opening technical presentation, showcasing automation workflows and tooling built for higher-ed web operations.
 `Automation` `Public Speaking`
 
 **🎤 Web Accessibility Presentation** — a talk on practical web accessibility (WCAG/POUR framework), with a live AI-powered demo generating image alt text in real time.
 `Accessibility` `WCAG` `Live Demo`
+
+**🤖 AI Solutions** — practical AI integration across projects: RAG-powered search, AI-generated image alt text, and other LLM-backed features built into real, shipped tools rather than standalone demos.
 
 ---
 
@@ -70,6 +70,7 @@
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-6E56CF?style=for-the-badge&logo=dokploy&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
