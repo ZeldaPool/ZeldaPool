@@ -29,7 +29,7 @@
 `Node.js` `PostgreSQL + pgvector` `Docker`
 → **[search.wcmo.edu](https://search.wcmo.edu)**
 
-**🛠️ Forge** — a browser-based image editor: crop, resize, convert, and AI-generated alt text, all running client-side (no uploads, no account).
+**🛠️ Forge** — a browser-based image editor: crop, resize, convert, and AI-generated alt text, all running client-side besides alt-text (no account).
 `React` `Vite` `Express`
 → **[forge.smitlabs.com](https://forge.smitlabs.com)**
 
