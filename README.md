@@ -14,7 +14,7 @@
 
 <a href="https://ranasmit.com"><img src="https://img.shields.io/badge/Portfolio-ranasmit.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=24" height="42" alt="portfolio" /></a>
 
-<br/><br/>
+<br/>
 
 [![Forge](https://img.shields.io/badge/Forge-forge.smitlabs.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://forge.smitlabs.com)
 [![Westminster Search](https://img.shields.io/badge/Westminster_Search-search.wcmo.edu-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://search.wcmo.edu)
