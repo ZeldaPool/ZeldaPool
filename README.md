@@ -1,16 +1,84 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ZeldaPool/ZeldaPool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Smit%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20UI%2FUX%20%7C%20Digital%20Strategy%20%7C%20Automation%20%2B%20AI&descAlignY=55&descAlign=50" width="100%"/>
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full-stack+dev+%2B+UI%2FUX+%2B+digital+strategy;Building+RAG+pipelines+%26+AI-powered+search;Automating+everything+with+n8n+%2B+APIs;Self-hosting+on+Docker+%2B+Cloudflare+Tunnel;4%2B+years+shipping+scalable+web+solutions" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🔗 Check these out
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ranasmit.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ranasmit.com)
+[![Forge](https://img.shields.io/badge/Forge-forge.smitlabs.com-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://forge.smitlabs.com)
+[![Westminster Search](https://img.shields.io/badge/Westminster_Search-search.wcmo.edu-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://search.wcmo.edu)
+
+</div>
+
+---
+
+### 🚀 A few things I've built
+
+**🔍 Westminster Search** — a production RAG (Retrieval-Augmented Generation) search assistant for a college website. Crawls and indexes the site, retrieves with hybrid keyword + vector search (Reciprocal Rank Fusion over Postgres full-text + pgvector), then answers questions with an LLM — strictly scoped to the site's own content, with a query analytics + feedback loop to keep improving it.
+`Node.js` `PostgreSQL + pgvector` `Docker`
+→ **[search.wcmo.edu](https://search.wcmo.edu)**
+
+**🛠️ Forge** — a browser-based image editor: crop, resize, convert, and AI-generated alt text, all running client-side (no uploads, no account).
+`React` `Vite` `Express`
+→ **[forge.smitlabs.com](https://forge.smitlabs.com)**
+
+**🎴 Professor Cardie** — a Discord bot for Pokémon TCG Pocket traders: live trade matching, a web-based collection manager, and an automated card database sync, self-hosted end to end.
+`discord.js` `n8n` `Supabase`
+
+**📹 Video Streaming Platform** — a full-stack streaming app with Google OAuth and state management at scale.
+`React` `Redux` `Google OAuth`
+
+**🏦 Cheque Processing System** — a computer vision pipeline for automated cheque data extraction.
+`MATLAB` `Image Processing`
+
+**📊 Digital Ads Reporting & Automation** — automated pipelines turning raw ad platform data into recurring visual reports, replacing manual reporting work.
+`Python` `Data Visualization` `Automation`
+
+---
+
+### 🧰 Tech I work with
+
+**Build**
+
+<img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,nodejs,express,python,astro,html,css&theme=dark" />
+
+**Data & Infra**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git,github&theme=dark" />
+
+**Design**
+
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
+
+<br/>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
+**Also in the toolkit:** Digital marketing & SEO strategy, paid ads (Meta/Google/LinkedIn), and UI/UX design — not every skill has a badge.
+
+---
+
+### 📫 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitrana/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smitrana178@gmail.com)
+
+</div>
+
+<div align="center">
+<sub>Off-screen, I'm usually chasing rare diecast finds or theorycrafting Pokémon TCG Pocket trades.</sub>
+</div>
